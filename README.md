@@ -4,7 +4,7 @@
 Packer is an open source tool that is used for automating the creation of identical machine images. A machine image is a unit that contains a pre-configured operating system and installed software which is used to create virtual machines.
 
 
-#### Continuous Delivery
+### Continuous Delivery
 Packer is 'command-line driven' which means that it is perfect for using in the continuous delivery pipeline.
 
 As part of this pipeline, the newly created images can then be launched and tested. If the tests pass, you can be confident that the image will work when deployed. This brings a new level of stability and testability to infrastructure changes.
