@@ -7,7 +7,7 @@ Packer is an open source tool that is used for automating the creation of identi
 
 
 #### Continuous Delivery
-Paker is 'command-line driven' which means that it is perfect for using in the continuous delivery pipeline.
+Packer is 'command-line driven' which means that it is perfect for using in the continuous delivery pipeline.
 
 
 
